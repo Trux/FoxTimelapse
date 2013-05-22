@@ -1,0 +1,21 @@
+{
+  "name": "easy Timelapse",
+  "description": "Simple software to make timelapse",
+  "type": "privileged"
+  "launch_path": "/",
+  "fullscreen": "true"
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Trux",
+    "url": "https://github.com/Trux/"
+  },
+  "default_locale": "en"
+  "permissions": {
+      "device-storage:pictures": {
+      "description": "Required to take pictures",
+      "access": "readcreate"
+      },
+}
+}
