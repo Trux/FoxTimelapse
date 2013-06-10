@@ -1,0 +1,1 @@
+Timelapse is an app allowing to take pictures at a slow framerate and make a video out of them
